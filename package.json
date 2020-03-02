@@ -1,0 +1,23 @@
+{
+  "name": "typescript-base-guide",
+  "version": "1.0.0",
+  "description": "Typescript base guide explaining all concepts with examples",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "design patterns"
+  ],
+  "main": "index.html",
+  "scripts": {
+    "test": "test",
+    "build": "tsc --p tsconfig.json --watch"
+  },
+  "homepage": "",
+  "author": "Carlos Martinez Casana",
+  "license": "MIT",
+  "contributors": "[Carlos Martinez Casana <carlos.martinez.casana@gmail.com> (https://github.com/Casana)]",
+  "devDependencies": {
+    "@types/angular": "^1.6.56",
+    "typescript": "^3.7.2"
+  }
+}
